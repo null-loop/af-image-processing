@@ -1,0 +1,7 @@
+{
+	"file": "Cats.zip",
+	"instructions": [{
+		"operation": "Grayscale",
+		"arguments": []
+	}]
+}

@@ -1,0 +1,7 @@
+{
+	"file": "Cats.zip",
+	"instructions": [{
+		"operation": "ResizeByWidth",
+		"arguments": ["100"]
+	}]
+}

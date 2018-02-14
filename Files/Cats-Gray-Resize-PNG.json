@@ -1,0 +1,13 @@
+{
+	"file": "Cats.zip",
+	"instructions": [{
+		"operation": "Grayscale",
+		"arguments": []
+	},{
+		"operation": "ResizeByWidth",
+		"arguments": ["100"]
+	},{
+		"operation": "ChangeFormat",
+		"arguments": ["png"]
+	}]
+}
